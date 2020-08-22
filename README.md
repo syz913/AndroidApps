@@ -1,2 +1,2 @@
 # AndroidApps
-some demo
+some demos
