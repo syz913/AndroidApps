@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AndroidAutoSize.iml" filepath="$PROJECT_DIR$/../AndroidAutoSize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autosize/autosize.iml" filepath="$PROJECT_DIR$/../autosize/autosize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo/demo.iml" filepath="$PROJECT_DIR$/../demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-androidx.iml" filepath="$PROJECT_DIR$/demo-androidx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo-subunits/demo-subunits.iml" filepath="$PROJECT_DIR$/../demo-subunits/demo-subunits.iml" />
+    </modules>
+  </component>
+</project>
